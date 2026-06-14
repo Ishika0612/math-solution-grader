@@ -100,3 +100,14 @@ If I had more time, I would:
 * Add OCR support for handwritten solutions.
 * Improve support for proof-based questions.
 * Create a larger evaluation dataset and measure grading accuracy.
+
+---
+
+## Use of AI Tools
+
+During this assignment, I used AI tools such as ChatGPT for brainstorming ideas, refining documentation structure, and reviewing different design alternatives.
+
+The final architecture, assumptions, trade-offs, and design decisions were made after understanding the problem requirements and evaluating different approaches myself.
+
+AI tools were used only as an assistant and not as a replacement for the design process.
+
